@@ -34,4 +34,4 @@ streamlit run app.py
 - LangGraph (if selected)
 
 ## Contributing
-Feel free to fork this repository, make improvements, and submit a pull request.
+If you find this repo inspiring give a star and Feel free to fork this repository, make improvements, and submit a pull request.
